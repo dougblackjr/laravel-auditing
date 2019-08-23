@@ -41,7 +41,7 @@
     "require": {
         "php": ">=7.2.0",
         "illuminate/console": "^5.8",
-        "illuminate/database": "^5.8",
+        "illuminate/database": "^5.8.33",
         "illuminate/filesystem": "^5.8"
     },
     "require-dev": {
